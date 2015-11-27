@@ -1,3 +1,53 @@
+v0.6.3
+======
+
+#### - Add support for view distribution ([pingyourid](https://github.com/pingyourid))
+
+https://github.com/SnapKit/Masonry/pull/225
+
+v0.6.2
+======
+
+#### - Add support for iOS 8 margin attributes ([CraigSiemens](https://github.com/CraigSiemens))
+
+https://github.com/SnapKit/Masonry/pull/163
+
+#### - Add support for leading and trailing insets ([montehurd](https://github.com/montehurd))
+
+https://github.com/SnapKit/Masonry/pull/168
+
+#### - Add support for Cartage ([erichoracek](https://github.com/erichoracek))
+
+https://github.com/SnapKit/Masonry/pull/182
+
+#### - Fix memory usage of updateConstraints
+
+v0.6.1
+======
+
+#### - Fix unused variable warning when compiled with NSAssert turned off
+
+#### - Add aspect fit example ([kouky](https://github.com/kouky))
+
+https://github.com/SnapKit/Masonry/pull/148
+
+v0.6.0
+======
+
+#### - Improved support of iOS 8
+
+As of iOS 8 there is `active` property of `NSLayoutConstraint` available, which allows to (de)activate constraint without searching closest common superview.
+
+#### - Added support of iPhone 6 and iPhone 6+ to test project
+
+v0.5.3
+======
+
+#### - Fixed compilation errors on xcode6 beta
+
+https://github.com/Masonry/Masonry/pull/84
+
+
 v0.5.2
 ======
 
